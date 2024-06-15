@@ -1,0 +1,8 @@
+-- 
+---Installed React Router DOM
+--- some form shit
+--- tried to write throttle functionlality failed somehow
+--- then some basic check for form 
+--- then started writing the api part
+--- created two api => job and auth
+--- installed the Axios
