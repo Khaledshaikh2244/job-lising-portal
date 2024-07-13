@@ -89,15 +89,20 @@ import { registerUser } from '../../api/auth';
       return;
       
      }
+
+     
      console.log(event);
 
        if(!isFormChecked) {
         toast.error('please accepts T&C');
         return;
       }
-      if(isFormChecked){
-        toast.success("Registered user SuccessFully ")
-      }
+      
+      
+      
+      // if(isFormChecked == true){
+      //   toast.success("Registered user SuccessFully ")
+      // }
 
 
       //register API call
